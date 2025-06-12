@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Exception {
+public class Exc {
     //例外処理の基本構文
     public static void main(String[] args){
         Scanner scanner=new Scanner(System.in);

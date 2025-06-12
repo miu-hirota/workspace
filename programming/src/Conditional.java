@@ -59,22 +59,6 @@ public class Conditional {
     
 }
 
-//switch
-int grade=2;
-
-switch(grade) {
-    case 1:
-        System.out.println("１年生です");
-        break;
-    case 2:
-        System.out.println("２年生です");
-        break;
-    case 3:
-        System.out.println("３年生です");
-        break;
-    default:
-        System.out.println("該当なし");
-};
 
 
 
